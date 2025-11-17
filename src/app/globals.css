@@ -1,5 +1,8 @@
 @import "tailwindcss";
 
+/* 导入 RainbowKit 的样式 */
+@import '@rainbow-me/rainbowkit/styles.css';
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
