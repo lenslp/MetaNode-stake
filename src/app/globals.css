@@ -2,6 +2,8 @@
 
 /* 导入 RainbowKit 的样式 */
 @import '@rainbow-me/rainbowkit/styles.css';
+/* 导入react-toastify样式 */
+@import 'react-toastify/dist/ReactToastify.css';
 
 :root {
   --background: #ffffff;
